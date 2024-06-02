@@ -1,0 +1,14 @@
+.orders {
+  .orders-tools {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5px;
+  }
+}
+
+.order-form {
+  .bootstrap-datetimepicker-widget .picker-switch a {
+      color: white;
+  }
+}
